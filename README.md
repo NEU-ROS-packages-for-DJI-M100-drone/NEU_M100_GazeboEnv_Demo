@@ -72,8 +72,8 @@ $ roslaunch rotors_gazebo neu_m100_with_keyboard.launch
 ### Notice:
 
 1.You can use `Tab` to completion the command you want  :)<br>
-2.There is also a branch which was published in March 8 2020,which can show the detail of our M100 model.:P
-
+2.There is also a branch which was published in March 8 2020,which can show the detail of our M100 model :P<br>
+3.This code is published in [Github](https://github.com/NEU-ROS-packages-for-DJI-M100-drone/Neu_M100_open) and [Gitee](https://gitee.com/NEU_Conqueror/M100_open)
 # Hope you can enjoy it ~
 
 
