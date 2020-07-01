@@ -9,13 +9,13 @@ Thanks for the work of [Rotosr](https://github.com/ethz-asl/rotors_simulator) an
 <br>
 ### Dependances
 
-1. Ubuntu18.04<br>
-2. ROS Melodic<br>
-3. gazebo 9<br>
+- 1. Ubuntu18.04<br>
+- 2. ROS Melodic<br>
+- 3. gazebo 9<br>
 
 ### How to install
 
--  1.Download the project and unzip src.zip
+- 1.Download the project and unzip src.zip
 ```sh
 $ git clone https://gitee.com/NEU_Conqueror/M100_open.git
 $ cd M100_open/
@@ -71,9 +71,9 @@ $ roslaunch rotors_gazebo neu_m100_with_keyboard.launch
 
 ### Notice:
 
-1.You can use `Tab` to completion the command you want  :)<br>
-2.There is also a branch which was published in March 8 2020,which can show the detail of our M100 model :P<br>
-3.This code is published in [Github](https://github.com/NEU-ROS-packages-for-DJI-M100-drone/Neu_M100_open) and [Gitee](https://gitee.com/NEU_Conqueror/M100_open)
+- 1.You can use `Tab` to completion the command you want  :)<br>
+- 2.There is also a branch which was published in March 8 2020,which can show the detail of our M100 model :P<br>
+- 3.This code is published in [Github](https://github.com/NEU-ROS-packages-for-DJI-M100-drone/Neu_M100_open) and [Gitee](https://gitee.com/NEU_Conqueror/M100_open)
 # Hope you can enjoy it ~
 
 
