@@ -1,4 +1,4 @@
-# This is a MAV gazebo simulator
+# This is a UAV gazebo simulator
 
 > Conquerors M100 open source code
 
